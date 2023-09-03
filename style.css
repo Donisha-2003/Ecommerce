@@ -1,0 +1,103 @@
+.ab {
+    width: 200px;
+    height:200px;
+    background-image:url(image/trend9.avif);
+    background-repeat:no-repeat;
+    background-size:cover;
+    animation-name: example;
+    animation-duration: 15s;
+  }
+  
+  @keyframes example {
+    0%   {background-image: url(image/trend1.jpg);}
+    10%  {background-image: url(image/trend2.jpg);}
+    20%  {background-image: url(image/trend3.jpg);}
+    30% {background-image: url(image/trend4.jpg);}
+    40% {background-image: url(image/trend5.avif);}
+    50% {background-image: url(image/trend4.jpg);}
+    60% {background-image: url(image/trend6.avif);}
+    70% {background-image: url(image/trend7.avif);}
+    80%  {background-image:url(image/trend8.avif);}
+    90% {background-image:url(image/cake15.avif);}
+    100%{background-image:url(image/cake16.avif);}
+  }
+  .ac
+  {
+    
+    border-radius:10px;
+    background-color:rgba(255, 189, 108, 0.37);
+  } 
+  .banner
+{
+    background-image: url(image/banner.jpg);
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+}
+.z{
+    padding:300px 50px 0px 400px;
+}
+
+.y
+{
+    padding-left:550px;
+}
+.x
+{
+    margin-left:650px;
+}
+.e{
+    font-family:bold;
+    padding-bottom:5px;
+    color:black;
+    
+}
+pre{
+    font-family:fractur bold;
+       
+}
+.j
+{
+    width:800px;
+    height:400px;
+}
+.aa
+{
+    border:1px rgba(209, 123, 37, 0.8) solid;
+    border-radius:20px; 
+    padding:5px 0px 5px 0px;
+}
+
+
+a{
+    text-decoration: none;
+}
+.g{
+    color:rgba(209, 123, 37, 0.8);  
+}.s{
+    margin:0px 20px 20px 20px;
+}
+
+.contents img
+{
+    transition:transform.2s;
+    text-align:center;
+}
+.contents img:hover
+{
+    transform:scale(1.2);
+}
+hr{
+    padding-bottom:1px;
+    margin-top:0px;
+}
+.d
+{
+   background-color: rgba(209, 123, 37, 0.8);
+   color:black;
+}
+.a:hover{
+    background-color:rgba(209, 123, 37, 0.8) ;
+    color:white;
+    border-radius:10px;
+    border:1px rgba(209, 123, 37, 0.8) dashed;
+}
